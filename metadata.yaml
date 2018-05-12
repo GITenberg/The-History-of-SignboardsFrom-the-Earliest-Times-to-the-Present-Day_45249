@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '43170'
     url: http://www.gutenberg.org/2009/agents/43170
 description: Illustrated by J. Larwood.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45249#The-History-of-SignboardsFrom-the-Earliest-Times-to-the-Present-Day
 gutenberg_issued: '2014-03-28'
 gutenberg_type: Text
 identifiers:
