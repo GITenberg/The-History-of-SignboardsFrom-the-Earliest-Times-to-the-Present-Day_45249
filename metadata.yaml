@@ -1,0 +1,43 @@
+_repo: The-History-of-SignboardsFrom-the-Earliest-Times-to-the-Present-Day_45249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45249-h/images/cover_b.jpg
+creator:
+  authors:
+  - agent_name: Hotten, John Camden
+    aliases:
+    - Hotten, J. C. (John Camden)
+    - Sylvestre, Joshua
+    - Hotten, J. W. (John William)
+    - Taylor, Theodore
+    - Hottin, J. C. (John Camden)
+    - Hotten, John William
+    - Sylvester, Joshua
+    - London antiquary
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '41526'
+    url: http://www.gutenberg.org/2009/agents/41526
+  - agent_name: Larwood, Jacob
+    alias: Schevichaven, Herman Diederik Johan van
+    birthdate: 1827
+    deathdate: 1918
+    gutenberg_agent_id: '43170'
+    url: http://www.gutenberg.org/2009/agents/43170
+description: Illustrated by J. Larwood.
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45249'
+  lccn: '11006734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inn signs -- England -- History'
+- !lcc 'GT'
+- !lcsh 'Signs and signboards -- History'
+title: The History of Signboards, from the Earliest times to the Present Day
+url: http://www.gutenberg.org/ebooks/45249
